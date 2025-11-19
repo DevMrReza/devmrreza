@@ -55,6 +55,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devmrreza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-### 👀 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=devmrreza&icon=2&color=4)](https://visitcount.itsvg.in)
